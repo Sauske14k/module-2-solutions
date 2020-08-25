@@ -1,4 +1,8 @@
 /*css document */
 <style>
-<section>
+#box {
+width:500px;
+hight:500px;
+background-color: gray;
+}
 </style>
